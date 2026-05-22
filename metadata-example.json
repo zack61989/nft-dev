@@ -1,0 +1,9 @@
+{
+  "name": "SDB Test NFT",
+  "symbol": "SDB",
+  "description": "Copy to metadata/devnet-sample.json or host your own JSON",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png",
+  "attributes": [
+    { "trait_type": "Environment", "value": "devnet" }
+  ]
+}
