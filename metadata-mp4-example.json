@@ -1,0 +1,20 @@
+{
+    "name": "Video Asset",
+    "image": "https://arweave.net/uMH-lDz73Q5LQQAdb2HlGu_6KzAgL7pkIKGq1tjqmJc",
+    "animation_url": "https://arweave.net/b2oifxVmEaHQVTko9l1tEx-eaTLwKErBn-GRRDy2qvM",
+    "description": "This is a video Asset. It has an image and animation URL with it's category set to 'video'.",
+    "external_url": "https://example.com",
+    "properties": {
+        "files": [
+            {
+                "uri": "https://arweave.net/uMH-lDz73Q5LQQAdb2HlGu_6KzAgL7pkIKGq1tjqmJc",
+                "type": "image/png"
+            },
+            {
+                "uri": "https://arweave.net/b2oifxVmEaHQVTko9l1tEx-eaTLwKErBn-GRRDy2qvM",
+                "type": "video/quicktime"
+            }
+        ],
+        "category": "video"
+    }
+}
